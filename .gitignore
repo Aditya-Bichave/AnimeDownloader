@@ -1,0 +1,5 @@
+/.vscode
+/build
+/dist
+*.pyc
+KissAnime_Downloader.egg-info/
